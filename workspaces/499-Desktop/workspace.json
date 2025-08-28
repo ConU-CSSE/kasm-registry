@@ -1,8 +1,7 @@
 {
-  "friendly_name": "499-Desktop",
+  "friendly_name": "499-Admin-Desktop",
   "image_src": "499-desktop.png",
-  /*"image_src": "blob:https://oxigen-a.github.io/81fca980-ff91-4367-a38e-1c64e9773521",*/
-  "description": "COMP 499 lab Desktop",
+  "description": "COMP 499 Admin Desktop",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
