@@ -4,7 +4,7 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Conu-CSSE Technologies',
+    name: 'Conu-CSSE Dep',
     description: 'Concordia image registry for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://github.com/ConU-CSSE/kasm-registry/',
