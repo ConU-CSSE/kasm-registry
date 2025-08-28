@@ -7,14 +7,16 @@
   "gpu_count": 0,
   "cpu_allocation_method": "Inherit",
   "docker_registry": "https://index.docker.io/v1/",
-  "categories": [
-    "Desktop"
+  "compatibility": [
+    {
+      "version": "1.17.0",
+      "image": "oxygena/comp-499",
+      "available_tags": ["1.0.3"]
+    }
   ],
+  "categories": ["Desktop"],
   "require_gpu": false,
   "enabled": true,
   "image_type": "Container",
-  "name": "oxygena/comp-499:1.0.3",
-  "architecture": [
-    "amd64"
-  ]
+  "architecture": ["amd64"]
 }
