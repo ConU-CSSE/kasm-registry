@@ -9,9 +9,12 @@
   "docker_registry": "https://index.docker.io/v1/",
   "compatibility": [
     {
-      "version": "1.17.0",
-      "image": "oxygena/comp-499",
-      "available_tags": ["1.0.3"]
+      "version": "1.17.x",
+      "image": "oxygena/comp-499:1.0.3",
+      "uncompressed_size_mb": 2170,
+      "available_tags": [
+        "lab"
+      ]
     }
   ],
   "categories": ["Desktop"],
