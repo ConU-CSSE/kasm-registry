@@ -89,7 +89,6 @@ export default function Home({ searchText }) {
           )}
         </div>
 
-
         <div className={styles.grid}>
 
         </div>
